@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">plan-apps</string>
+    <string name="what_your_planing_ntoday_guys">what your planing\ntoday guys</string>
+    <string name="we_can_help_you">we can help you</string>
 </resources>

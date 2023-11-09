@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "belajar.android.plan_apps"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "belajar.android.plan_apps"

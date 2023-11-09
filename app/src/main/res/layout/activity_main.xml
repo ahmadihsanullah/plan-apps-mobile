@@ -16,6 +16,7 @@
         android:capitalize="characters"
         android:fontFamily="@font/montserrat_bold"
         android:text="@string/what_your_planing_ntoday_guys"
+        android:textAllCaps="true"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
